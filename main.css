@@ -1,0 +1,16 @@
+body  {background-color:cornsilk;
+        font-family: Segoe, Verdana,sans-serif;}
+
+header{background-color:darkgrey
+       }
+
+h1{color:black}
+nav > ul {line-height:2em;
+    list-style-type: none;
+    padding-left:5px;}
+
+section {background-color: cornsilk
+         width:75%;
+         font-size: 1.2em;}
+
+footer {background-color: aliceblue}
